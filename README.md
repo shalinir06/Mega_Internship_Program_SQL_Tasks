@@ -47,7 +47,7 @@
   	--If the change in percentage is positive, it will be marked as "profit"; otherwise, it will be marked as "loss."
    ============================================================================================
      
-    8_
+    8_partition_group_by
 	--Performed all the types of joins 
 
 
