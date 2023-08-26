@@ -47,7 +47,7 @@
   	--If the change in percentage is positive, it will be marked as "profit"; otherwise, it will be marked as "loss."
    ============================================================================================
      
-    8_Joins
+    8_
 	--Performed all the types of joins 
 
 
