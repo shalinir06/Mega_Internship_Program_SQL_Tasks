@@ -21,7 +21,16 @@
 ============================================================================================
 
     4_Group_discussion
-    
+    Hi everyone, my name is Shalini. 
+    The topic of our discussion today is 'The Rise of the Al Workforce".
+	Are you curious about how artificial intelligence (AI) is revolutionizing industries? Al is more likely to collaborate with humans than replace them. Al can help us reshape Industries and open doors to new roles. 
+	Al is transforming healthcare by revolutionizing diagnostics, enabling early detection of diseases, and providing personalized treatment plans.
+	In finance, Al is used to analyze financial data, improve risk management, and detect fraudulent activities.
+	AI is transforming transportation and logistics, with self-driving vehicles and optimization algorithms making transportation more efficient, safe, and cost-effective.
+	Al is helping farmers optimize crop yields, monitor soil conditions, and adopt sustainable farming practices. 
+	Al is revolutionizing cybersecurity by enhancing threat detection, identifying patterns, and securing networks from potential attacks.
+	So, are you ready to embrace the power of Al? Join the advancements in technology and explore the possibilities it offers.
+	Thank you
 ============================================================================================    
     
     5_Excel
