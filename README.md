@@ -20,6 +20,14 @@
     The task aimed to leverage the power of derived tables and diverse SQL functions.
 ============================================================================================
 
+    4_Group_discussion
+    
+============================================================================================    
+    
+    5_Excel
+    
+============================================================================================    
+    
     6_WindowsFunction 
 	a) Updated the changes in the employee table
 	b) Generated the consecutive numbers for each record locationswise
@@ -32,9 +40,15 @@
 	    Case 3: Pick the employee with the second-highest salary in each location
 	    Case 4: Pick the employee with least salary in each location
 ============================================================================================
-
-
-
+    
+    7_lead_lag
+  	--The task has been executed, and an additional column called "profit_status" has been added. 
+  	--The column indicates whether the change in percentage is positive or negative. 
+  	--If the change in percentage is positive, it will be marked as "profit"; otherwise, it will be marked as "loss."
+   ============================================================================================
+     
+    8_Joins
+	--Performed all the types of joins 
 
 
 
