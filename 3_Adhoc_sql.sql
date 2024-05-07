@@ -25,7 +25,7 @@ select count(*) from sales_purchase_data_updated;
 
 select * from sales_purchase_data;
 
--- 5) creatong new table from the derived table and following the given patterns
+-- 5) creating new table from the derived table and following the given patterns
 DROP TABLE IF EXISTS Sales_Order_Info;
 CREATE TABLE Sales_Order_Info AS
 SELECT
